@@ -1,6 +1,6 @@
 {
   "name": "street-types",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Street suffixes and abbreviations",
   "main": "index.js",
   "scripts": {
