@@ -1,1031 +1,1031 @@
 module.exports = [
   {
-    "name": "ALLEY",
+    "suffix": "ALLEY",
     "abbrs": ["ALLEE", "ALLEY", "ALLY", "ALY"],
     "standardAbbr": "ALY"
   },
   {
-    "name": "ANEX",
+    "suffix": "ANEX",
     "abbrs": ["ANEX", "ANNEX", "ANNX", "ANX"],
     "standardAbbr": "ANX"
   },
   {
-    "name": "ARCADE",
+    "suffix": "ARCADE",
     "abbrs": ["ARC", "ARCADE "],
     "standardAbbr": "ARC"
   },
   {
-    "name": "AVENUE",
+    "suffix": "AVENUE",
     "abbrs": ["AV", "AVE", "AVEN", "AVENU", "AVENUE", "AVN", "AVNUE"],
     "standardAbbr": "AVE"
   },
   {
-    "name": "BAYOU",
+    "suffix": "BAYOU",
     "abbrs": ["BAYOO", "BAYOU", "BYU"],
     "standardAbbr": "BYU"
   },
   {
-    "name": "BEACH",
+    "suffix": "BEACH",
     "abbrs": ["BCH", "BEACH"],
     "standardAbbr": "BCH"
   },
   {
-    "name": "BEND",
+    "suffix": "BEND",
     "abbrs": ["BEND", "BND"],
     "standardAbbr": "BND"
   },
   {
-    "name": "BLUFF",
+    "suffix": "BLUFF",
     "abbrs": ["BLF", "BLUF", "BLUFF"],
     "standardAbbr": "BLF"
   },
   {
-    "name": "BLUFFS",
+    "suffix": "BLUFFS",
     "abbrs": ["BLUFFS", "BLFS"],
     "standardAbbr": "BLFS"
   },
   {
-    "name": "BOTTOM",
+    "suffix": "BOTTOM",
     "abbrs": ["BOT", "BTM", "BOTTM", "BOTTOM"],
     "standardAbbr": "BTM"
   },
   {
-    "name": "BOULEVARD",
-    "abbrs": ["BLVD", "BOUL", "BOULEVARD   ", "BOULV"],
+    "suffix": "BOULEVARD",
+    "abbrs": ["BLVD", "BOUL", "BOULEVARD", "BOULV"],
     "standardAbbr": "BLVD"
   },
   {
-    "name": "BRANCH",
+    "suffix": "BRANCH",
     "abbrs": ["BR", "BRNCH", "BRANCH"],
     "standardAbbr": "BR"
   },
   {
-    "name": "BRIDGE",
+    "suffix": "BRIDGE",
     "abbrs": ["BRDGE", "BRG", "BRIDGE"],
     "standardAbbr": "BRG"
   },
   {
-    "name": "BROOK",
+    "suffix": "BROOK",
     "abbrs": ["BRK", "BROOK"],
     "standardAbbr": "BRK"
   },
   {
-    "name": "BROOKS",
+    "suffix": "BROOKS",
     "abbrs": ["BROOKS", "BRKS"],
     "standardAbbr": "BRKS"
   },
   {
-    "name": "BURG",
+    "suffix": "BURG",
     "abbrs": ["BURG", "BG"],
     "standardAbbr": "BG"
   },
   {
-    "name": "BURGS",
+    "suffix": "BURGS",
     "abbrs": ["BURGS", "BGS"],
     "standardAbbr": "BGS"
   },
   {
-    "name": "BYPASS",
+    "suffix": "BYPASS",
     "abbrs": ["BYP", "BYPA", "BYPAS", "BYPASS", "BYPS"],
     "standardAbbr": "BYP"
   },
   {
-    "name": "CAMP",
+    "suffix": "CAMP",
     "abbrs": ["CAMP", "CP", "CMP"],
     "standardAbbr": "CP"
   },
   {
-    "name": "CANYON",
+    "suffix": "CANYON",
     "abbrs": ["CANYN", "CANYON", "CNYN", "CYN"],
     "standardAbbr": "CYN"
   },
   {
-    "name": "CAPE",
+    "suffix": "CAPE",
     "abbrs": ["CAPE", "CPE"],
     "standardAbbr": "CPE"
   },
   {
-    "name": "CAUSEWAY",
+    "suffix": "CAUSEWAY",
     "abbrs": ["CAUSEWAY", "CAUSWA", "CSWY"],
     "standardAbbr": "CSWY"
   },
   {
-    "name": "CENTER",
+    "suffix": "CENTER",
     "abbrs": ["CEN", "CENT", "CENTER", "CENTR", "CENTRE", "CNTER", "CNTR", "CTR"],
     "standardAbbr": "CTR"
   },
   {
-    "name": "CENTERS",
+    "suffix": "CENTERS",
     "abbrs": ["CENTERS", "CTRS"],
     "standardAbbr": "CTRS"
   },
   {
-    "name": "CIRCLE",
+    "suffix": "CIRCLE",
     "abbrs": ["CIR", "CIRC", "CIRCL", "CIRCLE", "CRCL", "CRCLE"],
     "standardAbbr": "CIR"
   },
   {
-    "name": "CIRCLES",
+    "suffix": "CIRCLES",
     "abbrs": ["CIRCLES", "CIRS"],
     "standardAbbr": "CIRS"
   },
   {
-    "name": "CLIFF",
+    "suffix": "CLIFF",
     "abbrs": ["CLF", "CLIFF"],
     "standardAbbr": "CLF"
   },
   {
-    "name": "CLIFFS",
+    "suffix": "CLIFFS",
     "abbrs": ["CLFS", "CLIFFS"],
     "standardAbbr": "CLFS"
   },
   {
-    "name": "CLUB",
+    "suffix": "CLUB",
     "abbrs": ["CLB", "CLUB"],
     "standardAbbr": "CLB"
   },
   {
-    "name": "COMMON",
+    "suffix": "COMMON",
     "abbrs": ["COMMON", "CMN"],
     "standardAbbr": "CMN"
   },
   {
-    "name": "COMMONS",
+    "suffix": "COMMONS",
     "abbrs": ["COMMONS", "CMNS"],
     "standardAbbr": "CMNS"
   },
   {
-    "name": "CORNER",
+    "suffix": "CORNER",
     "abbrs": ["COR", "CORNER"],
     "standardAbbr": "COR"
   },
   {
-    "name": "CORNERS",
+    "suffix": "CORNERS",
     "abbrs": ["CORNERS", "CORS"],
     "standardAbbr": "CORS"
   },
   {
-    "name": "COURSE",
+    "suffix": "COURSE",
     "abbrs": ["COURSE", "CRSE"],
     "standardAbbr": "CRSE"
   },
   {
-    "name": "COURT",
+    "suffix": "COURT",
     "abbrs": ["COURT", "CT"],
     "standardAbbr": "CT"
   },
   {
-    "name": "COURTS",
+    "suffix": "COURTS",
     "abbrs": ["COURTS", "CTS"],
     "standardAbbr": "CTS"
   },
   {
-    "name": "COVE",
+    "suffix": "COVE",
     "abbrs": ["COVE", "CV"],
     "standardAbbr": "CV"
   },
   {
-    "name": "COVES",
+    "suffix": "COVES",
     "abbrs": ["COVES", "CVS"],
     "standardAbbr": "CVS"
   },
   {
-    "name": "CREEK",
+    "suffix": "CREEK",
     "abbrs": ["CREEK", "CRK"],
     "standardAbbr": "CRK"
   },
   {
-    "name": "CRESCENT",
+    "suffix": "CRESCENT",
     "abbrs": ["CRESCENT", "CRES", "CRSENT", "CRSNT"],
     "standardAbbr": "CRES"
   },
   {
-    "name": "CREST",
+    "suffix": "CREST",
     "abbrs": ["CREST", "CRST"],
     "standardAbbr": "CRST"
   },
   {
-    "name": "CROSSING",
+    "suffix": "CROSSING",
     "abbrs": ["CROSSING", "CRSSNG ", "XING    ", "XING"],
     "standardAbbr": "XING"
   },
   {
-    "name": "CROSSROAD",
+    "suffix": "CROSSROAD",
     "abbrs": ["CROSSROAD", "XRD"],
     "standardAbbr": "XRD"
   },
   {
-    "name": "CROSSROADS",
+    "suffix": "CROSSROADS",
     "abbrs": ["CROSSROADS", "XRDS"],
     "standardAbbr": "XRDS"
   },
   {
-    "name": "CURVE ",
+    "suffix": "CURVE ",
     "abbrs": ["CURVE", "CURV"],
     "standardAbbr": "CURV"
   },
   {
-    "name": "DALE",
-    "abbrs": ["DALE", "DL      ", "DL"],
+    "suffix": "DALE",
+    "abbrs": ["DALE", "DL", "DL"],
     "standardAbbr": "DL"
   },
   {
-    "name": "DAM",
-    "abbrs": ["DAM", "DM      ", "DM"],
+    "suffix": "DAM",
+    "abbrs": ["DAM", "DM", "DM"],
     "standardAbbr": "DM"
   },
   {
-    "name": "DIVIDE",
+    "suffix": "DIVIDE",
     "abbrs": ["DIV", "DIVIDE", "DV", "DVD"],
     "standardAbbr": "DV"
   },
   {
-    "name": "DRIVE",
+    "suffix": "DRIVE",
     "abbrs": ["DR", "DRIV", "DRIVE", "DRV"],
     "standardAbbr": "DR"
   },
   {
-    "name": "DRIVES   ",
+    "suffix": "DRIVES",
     "abbrs": ["DRIVES", "DRS"],
     "standardAbbr": "DRS"
   },
   {
-    "name": "ESTATE",
+    "suffix": "ESTATE",
     "abbrs": ["EST", "ESTATE"],
     "standardAbbr": "EST"
   },
   {
-    "name": "ESTATES",
+    "suffix": "ESTATES",
     "abbrs": ["ESTATES", "ESTS"],
     "standardAbbr": "ESTS"
   },
   {
-    "name": "EXPRESSWAY",
+    "suffix": "EXPRESSWAY",
     "abbrs": ["EXP", "EXPR", "EXPRESS", "EXPRESSWAY", "EXPW", "EXPY"],
     "standardAbbr": "EXPY"
   },
   {
-    "name": "EXTENSION",
+    "suffix": "EXTENSION",
     "abbrs": ["EXT", "EXTENSION", "EXTN", "EXTNSN"],
     "standardAbbr": "EXT"
   },
   {
-    "name": "EXTENSIONS",
+    "suffix": "EXTENSIONS",
     "abbrs": ["EXTS"],
     "standardAbbr": "EXTS"
   },
   {
-    "name": "FALL",
+    "suffix": "FALL",
     "abbrs": ["FALL"],
     "standardAbbr": "FALL"
   },
   {
-    "name": "FALLS",
+    "suffix": "FALLS",
     "abbrs": ["FALLS", "FLS"],
     "standardAbbr": "FLS"
   },
   {
-    "name": "FERRY",
+    "suffix": "FERRY",
     "abbrs": ["FERRY", "FRRY", "FRY"],
     "standardAbbr": "FRY"
   },
   {
-    "name": "FIELD",
+    "suffix": "FIELD",
     "abbrs": ["FIELD", "FLD"],
     "standardAbbr": "FLD"
   },
   {
-    "name": "FIELDS",
+    "suffix": "FIELDS",
     "abbrs": ["FIELDS", "FLDS"],
     "standardAbbr": "FLDS"
   },
   {
-    "name": "FLAT",
+    "suffix": "FLAT",
     "abbrs": ["FLAT", "FLT"],
     "standardAbbr": "FLT"
   },
   {
-    "name": "FLATS",
+    "suffix": "FLATS",
     "abbrs": ["FLATS", "FLTS"],
     "standardAbbr": "FLTS"
   },
   {
-    "name": "FORD",
+    "suffix": "FORD",
     "abbrs": ["FORD", "FRD"],
     "standardAbbr": "FRD"
   },
   {
-    "name": "FORDS",
+    "suffix": "FORDS",
     "abbrs": ["FORDS", "FRDS"],
     "standardAbbr": "FRDS"
   },
   {
-    "name": "FOREST",
+    "suffix": "FOREST",
     "abbrs": ["FOREST", "FORESTS", "FRST"],
     "standardAbbr": "FRST"
   },
   {
-    "name": "FORGE",
+    "suffix": "FORGE",
     "abbrs": ["FORG", "FORGE", "FRG"],
     "standardAbbr": "FRG"
   },
   {
-    "name": "FORGES",
+    "suffix": "FORGES",
     "abbrs": ["FORGES", "FRGS"],
     "standardAbbr": "FRGS"
   },
   {
-    "name": "FORK",
+    "suffix": "FORK",
     "abbrs": ["FORK", "FRK"],
     "standardAbbr": "FRK"
   },
   {
-    "name": "FORKS",
+    "suffix": "FORKS",
     "abbrs": ["FORKS", "FRKS"],
     "standardAbbr": "FRKS"
   },
   {
-    "name": "FORT",
+    "suffix": "FORT",
     "abbrs": ["FORT", "FRT", "FT"],
     "standardAbbr": "FT"
   },
   {
-    "name": "FREEWAY",
+    "suffix": "FREEWAY",
     "abbrs": ["FREEWAY", "FREEWY", "FRWAY", "FRWY", "FWY"],
     "standardAbbr": "FWY"
   },
   {
-    "name": "GARDEN",
+    "suffix": "GARDEN",
     "abbrs": ["GARDEN", "GARDN", "GRDEN", "GRDN", "GDN"],
     "standardAbbr": "GDN"
   },
   {
-    "name": "GARDENS",
+    "suffix": "GARDENS",
     "abbrs": ["GARDENS", "GDNS", "GRDNS"],
     "standardAbbr": "GDNS"
   },
   {
-    "name": "GATEWAY",
+    "suffix": "GATEWAY",
     "abbrs": ["GATEWAY", "GATEWY", "GATWAY", "GTWAY", "GTWY"],
     "standardAbbr": "GTWY"
   },
   {
-    "name": "GLEN",
+    "suffix": "GLEN",
     "abbrs": ["GLEN", "GLN"],
     "standardAbbr": "GLN"
   },
   {
-    "name": "GLENS",
+    "suffix": "GLENS",
     "abbrs": ["GLENS", "GLNS"],
     "standardAbbr": "GLNS"
   },
   {
-    "name": "GREEN",
+    "suffix": "GREEN",
     "abbrs": ["GREEN", "GRN"],
     "standardAbbr": "GRN"
   },
   {
-    "name": "GREENS",
+    "suffix": "GREENS",
     "abbrs": ["GREENS", "GRNS"],
     "standardAbbr": "GRNS"
   },
   {
-    "name": "GROVE",
+    "suffix": "GROVE",
     "abbrs": ["GROV", "GROVE", "GRV"],
     "standardAbbr": "GRV"
   },
   {
-    "name": "GROVES",
+    "suffix": "GROVES",
     "abbrs": ["GROVES", "GRVS"],
     "standardAbbr": "GRVS"
   },
   {
-    "name": "HARBOR",
+    "suffix": "HARBOR",
     "abbrs": ["HARB", "HARBOR", "HARBR", "HBR", "HRBOR"],
     "standardAbbr": "HBR"
   },
   {
-    "name": "HARBORS",
+    "suffix": "HARBORS",
     "abbrs": ["HARBORS", "HBRS"],
     "standardAbbr": "HBRS"
   },
   {
-    "name": "HAVEN",
+    "suffix": "HAVEN",
     "abbrs": ["HAVEN", "HVN"],
     "standardAbbr": "HVN"
   },
   {
-    "name": "HEIGHTS",
+    "suffix": "HEIGHTS",
     "abbrs": ["HT", "HTS"],
     "standardAbbr": "HTS"
   },
   {
-    "name": "HIGHWAY",
+    "suffix": "HIGHWAY",
     "abbrs": ["HIGHWAY", "HIGHWY", "HIWAY", "HIWY", "HWAY", "HWY"],
     "standardAbbr": "HWY"
   },
   {
-    "name": "HILL",
+    "suffix": "HILL",
     "abbrs": ["HILL", "HL"],
     "standardAbbr": "HL"
   },
   {
-    "name": "HILLS",
+    "suffix": "HILLS",
     "abbrs": ["HILLS", "HLS"],
     "standardAbbr": "HLS"
   },
   {
-    "name": "HOLLOW",
+    "suffix": "HOLLOW",
     "abbrs": ["HLLW", "HOLLOW", "HOLLOWS", "HOLW", "HOLWS"],
     "standardAbbr": "HOLW"
   },
   {
-    "name": "INLET",
+    "suffix": "INLET",
     "abbrs": ["INLT"],
     "standardAbbr": "INLT"
   },
   {
-    "name": "ISLAND",
+    "suffix": "ISLAND",
     "abbrs": ["IS", "ISLAND", "ISLND"],
     "standardAbbr": "IS"
   },
   {
-    "name": "ISLANDS",
+    "suffix": "ISLANDS",
     "abbrs": ["ISLANDS", "ISLNDS", "ISS"],
     "standardAbbr": "ISS"
   },
   {
-    "name": "ISLE",
+    "suffix": "ISLE",
     "abbrs": ["ISLE", "ISLES"],
     "standardAbbr": "ISLE"
   },
   {
-    "name": "JUNCTION",
+    "suffix": "JUNCTION",
     "abbrs": ["JCT", "JCTION", "JCTN", "JUNCTION", "JUNCTN", "JUNCTON"],
     "standardAbbr": "JCT"
   },
   {
-    "name": "JUNCTIONS",
+    "suffix": "JUNCTIONS",
     "abbrs": ["JCTNS", "JCTS", "JUNCTIONS"],
     "standardAbbr": "JCTS"
   },
   {
-    "name": "KEY",
+    "suffix": "KEY",
     "abbrs": ["KEY", "KY"],
     "standardAbbr": "KY"
   },
   {
-    "name": "KEYS",
+    "suffix": "KEYS",
     "abbrs": ["KEYS", "KYS"],
     "standardAbbr": "KYS"
   },
   {
-    "name": "KNOLL",
+    "suffix": "KNOLL",
     "abbrs": ["KNL", "KNOL", "KNOLL", "KNL "],
     "standardAbbr": "KNL "
   },
   {
-    "name": "KNOLLS",
+    "suffix": "KNOLLS",
     "abbrs": ["KNLS", "KNOLLS"],
     "standardAbbr": "KNLS"
   },
   {
-    "name": "LAKE",
+    "suffix": "LAKE",
     "abbrs": ["LK", "LAKE"],
     "standardAbbr": "LK"
   },
   {
-    "name": "LAKES",
+    "suffix": "LAKES",
     "abbrs": ["LKS", "LAKES"],
     "standardAbbr": "LKS"
   },
   {
-    "name": "LAND",
+    "suffix": "LAND",
     "abbrs": ["LAND"],
     "standardAbbr": "LAND"
   },
   {
-    "name": "LANDING",
+    "suffix": "LANDING",
     "abbrs": ["LANDING", "LNDG", "LNDNG"],
     "standardAbbr": "LNDG"
   },
   {
-    "name": "LANE",
+    "suffix": "LANE",
     "abbrs": ["LANE", "LN"],
     "standardAbbr": "LN"
   },
   {
-    "name": "LIGHT",
+    "suffix": "LIGHT",
     "abbrs": ["LGT", "LIGHT"],
     "standardAbbr": "LGT"
   },
   {
-    "name": "LIGHTS",
+    "suffix": "LIGHTS",
     "abbrs": ["LIGHTS", "LGTS"],
     "standardAbbr": "LGTS"
   },
   {
-    "name": "LOAF",
+    "suffix": "LOAF",
     "abbrs": ["LF", "LOAF"],
     "standardAbbr": "LF"
   },
   {
-    "name": "LOCK",
+    "suffix": "LOCK",
     "abbrs": ["LCK", "LOCK"],
     "standardAbbr": "LCK"
   },
   {
-    "name": "LOCKS",
+    "suffix": "LOCKS",
     "abbrs": ["LCKS", "LOCKS"],
     "standardAbbr": "LCKS"
   },
   {
-    "name": "LODGE",
+    "suffix": "LODGE",
     "abbrs": ["LDG", "LDGE", "LODG", "LODGE"],
     "standardAbbr": "LDG"
   },
   {
-    "name": "LOOP",
+    "suffix": "LOOP",
     "abbrs": ["LOOP", "LOOPS"],
     "standardAbbr": "LOOP"
   },
   {
-    "name": "MALL",
+    "suffix": "MALL",
     "abbrs": ["MALL"],
     "standardAbbr": "MALL"
   },
   {
-    "name": "MANOR",
+    "suffix": "MANOR",
     "abbrs": ["MNR", "MANOR"],
     "standardAbbr": "MNR"
   },
   {
-    "name": "MANORS",
+    "suffix": "MANORS",
     "abbrs": ["MANORS", "MNRS"],
     "standardAbbr": "MNRS"
   },
   {
-    "name": "MEADOW",
+    "suffix": "MEADOW",
     "abbrs": ["MEADOW", "MDW"],
     "standardAbbr": "MDW"
   },
   {
-    "name": "MEADOWS",
+    "suffix": "MEADOWS",
     "abbrs": ["MDW", "MDWS", "MEADOWS", "MEDOWS"],
     "standardAbbr": "MDWS"
   },
   {
-    "name": "MEWS",
+    "suffix": "MEWS",
     "abbrs": ["MEWS"],
     "standardAbbr": "MEWS"
   },
   {
-    "name": "MILL",
+    "suffix": "MILL",
     "abbrs": ["MILL", "ML"],
     "standardAbbr": "ML"
   },
   {
-    "name": "MILLS",
+    "suffix": "MILLS",
     "abbrs": ["MILLS", "MLS"],
     "standardAbbr": "MLS"
   },
   {
-    "name": "MISSION",
+    "suffix": "MISSION",
     "abbrs": ["MISSN", "MSSN", "MSN"],
     "standardAbbr": "MSN"
   },
   {
-    "name": "MOTORWAY",
+    "suffix": "MOTORWAY",
     "abbrs": ["MOTORWAY", "MTWY"],
     "standardAbbr": "MTWY"
   },
   {
-    "name": "MOUNT",
+    "suffix": "MOUNT",
     "abbrs": ["MNT", "MT", "MOUNT"],
     "standardAbbr": "MT"
   },
   {
-    "name": "MOUNTAIN",
+    "suffix": "MOUNTAIN",
     "abbrs": ["MNTAIN", "MNTN", "MOUNTAIN", "MOUNTIN", "MTIN", "MTN"],
     "standardAbbr": "MTN"
   },
   {
-    "name": "MOUNTAINS",
+    "suffix": "MOUNTAINS",
     "abbrs": ["MNTNS", "MOUNTAINS", "MTNS"],
     "standardAbbr": "MTNS"
   },
   {
-    "name": "NECK",
+    "suffix": "NECK",
     "abbrs": ["NCK", "NECK"],
     "standardAbbr": "NCK"
   },
   {
-    "name": "ORCHARD",
+    "suffix": "ORCHARD",
     "abbrs": ["ORCH", "ORCHARD", "ORCHRD"],
     "standardAbbr": "ORCH"
   },
   {
-    "name": "OVAL",
+    "suffix": "OVAL",
     "abbrs": ["OVAL", "OVL"],
     "standardAbbr": "OVAL"
   },
   {
-    "name": "OVERPASS",
+    "suffix": "OVERPASS",
     "abbrs": ["OVERPASS", "OPAS"],
     "standardAbbr": "OPAS"
   },
   {
-    "name": "PARK",
+    "suffix": "PARK",
     "abbrs": ["PARK", "PRK"],
     "standardAbbr": "PARK"
   },
   {
-    "name": "PARKS",
+    "suffix": "PARKS",
     "abbrs": ["PARKS", "PARK"],
     "standardAbbr": "PARK"
   },
   {
-    "name": "PARKWAY",
+    "suffix": "PARKWAY",
     "abbrs": ["PARKWAY", "PARKWY", "PKWAY", "PKWY", "PKY"],
     "standardAbbr": "PKWY"
   },
   {
-    "name": "PARKWAYS",
+    "suffix": "PARKWAYS",
     "abbrs": ["PARKWAYS", "PKWYS", "PKWY"],
     "standardAbbr": "PKWY"
   },
   {
-    "name": "PASS",
+    "suffix": "PASS",
     "abbrs": ["PASS"],
     "standardAbbr": "PASS"
   },
   {
-    "name": "PASSAGE",
+    "suffix": "PASSAGE",
     "abbrs": ["PASSAGE", "PSGE"],
     "standardAbbr": "PSGE"
   },
   {
-    "name": "PATH",
+    "suffix": "PATH",
     "abbrs": ["PATH", "PATHS"],
     "standardAbbr": "PATH"
   },
   {
-    "name": "PIKE",
+    "suffix": "PIKE",
     "abbrs": ["PIKE", "PIKES"],
     "standardAbbr": "PIKE"
   },
   {
-    "name": "PINE",
+    "suffix": "PINE",
     "abbrs": ["PINE", "PNE "],
     "standardAbbr": "PNE "
   },
   {
-    "name": "PINES",
+    "suffix": "PINES",
     "abbrs": ["PINES", "PNES"],
     "standardAbbr": "PNES"
   },
   {
-    "name": "PLACE",
+    "suffix": "PLACE",
     "abbrs": ["PL"],
     "standardAbbr": "PL"
   },
   {
-    "name": "PLAIN",
+    "suffix": "PLAIN",
     "abbrs": ["PLAIN", "PLN"],
     "standardAbbr": "PLN"
   },
   {
-    "name": "PLAINS",
+    "suffix": "PLAINS",
     "abbrs": ["PLAINS", "PLNS"],
     "standardAbbr": "PLNS"
   },
   {
-    "name": "PLAZA",
+    "suffix": "PLAZA",
     "abbrs": ["PLAZA", "PLZ", "PLZA"],
     "standardAbbr": "PLZ"
   },
   {
-    "name": "POINT",
+    "suffix": "POINT",
     "abbrs": ["POINT", "PT"],
     "standardAbbr": "PT"
   },
   {
-    "name": "POINTS",
+    "suffix": "POINTS",
     "abbrs": ["POINTS", "PTS"],
     "standardAbbr": "PTS"
   },
   {
-    "name": "PORT",
+    "suffix": "PORT",
     "abbrs": ["PORT", "PRT"],
     "standardAbbr": "PRT"
   },
   {
-    "name": "PORTS",
+    "suffix": "PORTS",
     "abbrs": ["PORTS", "PRTS"],
     "standardAbbr": "PRTS"
   },
   {
-    "name": "PRAIRIE",
+    "suffix": "PRAIRIE",
     "abbrs": ["PR", "PRAIRIE", "PRR"],
     "standardAbbr": "PR"
   },
   {
-    "name": "RADIAL",
+    "suffix": "RADIAL",
     "abbrs": ["RAD", "RADIAL", "RADIEL", "RADL"],
     "standardAbbr": "RADL"
   },
   {
-    "name": "RAMP",
+    "suffix": "RAMP",
     "abbrs": ["RAMP"],
     "standardAbbr": "RAMP"
   },
   {
-    "name": "RANCH",
+    "suffix": "RANCH",
     "abbrs": ["RANCH", "RANCHES", "RNCH", "RNCHS"],
     "standardAbbr": "RNCH"
   },
   {
-    "name": "RAPID",
+    "suffix": "RAPID",
     "abbrs": ["RAPID", "RPD"],
     "standardAbbr": "RPD"
   },
   {
-    "name": "RAPIDS",
+    "suffix": "RAPIDS",
     "abbrs": ["RAPIDS", "RPDS"],
     "standardAbbr": "RPDS"
   },
   {
-    "name": "REST",
+    "suffix": "REST",
     "abbrs": ["REST", "RST"],
     "standardAbbr": "RST"
   },
   {
-    "name": "RIDGE",
+    "suffix": "RIDGE",
     "abbrs": ["RDG", "RDGE", "RIDGE"],
     "standardAbbr": "RDG"
   },
   {
-    "name": "RIDGES",
+    "suffix": "RIDGES",
     "abbrs": ["RDGS", "RIDGES"],
     "standardAbbr": "RDGS"
   },
   {
-    "name": "RIVER",
+    "suffix": "RIVER",
     "abbrs": ["RIV", "RIVER", "RVR", "RIVR"],
     "standardAbbr": "RIV"
   },
   {
-    "name": "ROAD",
+    "suffix": "ROAD",
     "abbrs": ["RD", "ROAD"],
     "standardAbbr": "RD"
   },
   {
-    "name": "ROADS",
+    "suffix": "ROADS",
     "abbrs": ["ROADS", "RDS"],
     "standardAbbr": "RDS"
   },
   {
-    "name": "ROUTE",
+    "suffix": "ROUTE",
     "abbrs": ["ROUTE", "RTE"],
     "standardAbbr": "RTE"
   },
   {
-    "name": "ROW",
+    "suffix": "ROW",
     "abbrs": ["ROW"],
     "standardAbbr": "ROW"
   },
   {
-    "name": "RUE",
+    "suffix": "RUE",
     "abbrs": ["RUE"],
     "standardAbbr": "RUE"
   },
   {
-    "name": "RUN",
+    "suffix": "RUN",
     "abbrs": ["RUN"],
     "standardAbbr": "RUN"
   },
   {
-    "name": "SHOAL",
+    "suffix": "SHOAL",
     "abbrs": ["SHL", "SHOAL"],
     "standardAbbr": "SHL"
   },
   {
-    "name": "SHOALS",
+    "suffix": "SHOALS",
     "abbrs": ["SHLS", "SHOALS"],
     "standardAbbr": "SHLS"
   },
   {
-    "name": "SHORE",
+    "suffix": "SHORE",
     "abbrs": ["SHOAR", "SHORE", "SHR"],
     "standardAbbr": "SHR"
   },
   {
-    "name": "SHORES",
+    "suffix": "SHORES",
     "abbrs": ["SHOARS", "SHORES", "SHRS"],
     "standardAbbr": "SHRS"
   },
   {
-    "name": "SKYWAY",
+    "suffix": "SKYWAY",
     "abbrs": ["SKYWAY", "SKWY"],
     "standardAbbr": "SKWY"
   },
   {
-    "name": "SPRING",
+    "suffix": "SPRING",
     "abbrs": ["SPG", "SPNG", "SPRING", "SPRNG"],
     "standardAbbr": "SPG"
   },
   {
-    "name": "SPRINGS",
+    "suffix": "SPRINGS",
     "abbrs": ["SPGS", "SPNGS", "SPRINGS", "SPRNGS"],
     "standardAbbr": "SPGS"
   },
   {
-    "name": "SPUR",
+    "suffix": "SPUR",
     "abbrs": ["SPUR"],
     "standardAbbr": "SPUR"
   },
   {
-    "name": "SPURS",
+    "suffix": "SPURS",
     "abbrs": ["SPURS", "SPUR"],
     "standardAbbr": "SPUR"
   },
   {
-    "name": "SQUARE",
+    "suffix": "SQUARE",
     "abbrs": ["SQ", "SQR", "SQRE", "SQU", "SQUARE"],
     "standardAbbr": "SQ"
   },
   {
-    "name": "SQUARES",
+    "suffix": "SQUARES",
     "abbrs": ["SQRS", "SQUARES", "SQS"],
     "standardAbbr": "SQS"
   },
   {
-    "name": "STATION",
+    "suffix": "STATION",
     "abbrs": ["STA", "STATION", "STATN", "STN"],
     "standardAbbr": "STA"
   },
   {
-    "name": "STRAVENUE",
+    "suffix": "STRAVENUE",
     "abbrs": ["STRA", "STRAV", "STRAVEN", "STRAVENUE", "STRAVN", "STRVN", "STRVNUE"],
     "standardAbbr": "STRA"
   },
   {
-    "name": "STREAM",
+    "suffix": "STREAM",
     "abbrs": ["STREAM", "STREME", "STRM"],
     "standardAbbr": "STRM"
   },
   {
-    "name": "STREET",
+    "suffix": "STREET",
     "abbrs": ["STREET", "STRT", "ST", "STR"],
     "standardAbbr": "ST"
   },
   {
-    "name": "STREETS",
+    "suffix": "STREETS",
     "abbrs": ["STREETS", "STS"],
     "standardAbbr": "STS"
   },
   {
-    "name": "SUMMIT",
+    "suffix": "SUMMIT",
     "abbrs": ["SMT", "SUMIT", "SUMITT", "SUMMIT"],
     "standardAbbr": "SMT"
   },
   {
-    "name": "TERRACE",
+    "suffix": "TERRACE",
     "abbrs": ["TER", "TERR", "TERRACE"],
     "standardAbbr": "TER"
   },
   {
-    "name": "THROUGHWAY",
+    "suffix": "THROUGHWAY",
     "abbrs": ["THROUGHWAY", "TRWY"],
     "standardAbbr": "TRWY"
   },
   {
-    "name": "TRACE",
+    "suffix": "TRACE",
     "abbrs": ["TRACE", "TRACES", "TRCE"],
     "standardAbbr": "TRCE"
   },
   {
-    "name": "TRACK",
+    "suffix": "TRACK",
     "abbrs": ["TRACK", "TRACKS", "TRAK", "TRK", "TRKS"],
     "standardAbbr": "TRAK"
   },
   {
-    "name": "TRAFFICWAY",
+    "suffix": "TRAFFICWAY",
     "abbrs": ["TRAFFICWAY", "TRFY"],
     "standardAbbr": "TRFY"
   },
   {
-    "name": "TRAIL",
+    "suffix": "TRAIL",
     "abbrs": ["TRAIL", "TRAILS", "TRL", "TRLS"],
     "standardAbbr": "TRL"
   },
   {
-    "name": "TRAILER",
+    "suffix": "TRAILER",
     "abbrs": ["TRAILER", "TRLR", "TRLRS"],
     "standardAbbr": "TRLR"
   },
   {
-    "name": "TUNNEL",
+    "suffix": "TUNNEL",
     "abbrs": ["TUNEL", "TUNL", "TUNLS", "TUNNEL", "TUNNELS", "TUNNL"],
     "standardAbbr": "TUNL"
   },
   {
-    "name": "TURNPIKE",
+    "suffix": "TURNPIKE",
     "abbrs": ["TRNPK", "TURNPIKE", "TURNPK", "TPKE"],
     "standardAbbr": "TPKE"
   },
   {
-    "name": "UNDERPASS",
+    "suffix": "UNDERPASS",
     "abbrs": ["UNDERPASS", "UPAS"],
     "standardAbbr": "UPAS"
   },
   {
-    "name": "UNION",
+    "suffix": "UNION",
     "abbrs": ["UN", "UNION"],
     "standardAbbr": "UN"
   },
   {
-    "name": "UNIONS",
+    "suffix": "UNIONS",
     "abbrs": ["UNIONS", "UNS"],
     "standardAbbr": "UNS"
   },
   {
-    "name": "VALLEY",
+    "suffix": "VALLEY",
     "abbrs": ["VALLEY", "VALLY", "VLLY", "VLY"],
     "standardAbbr": "VLY"
   },
   {
-    "name": "VALLEYS",
+    "suffix": "VALLEYS",
     "abbrs": ["VALLEYS", "VLYS"],
     "standardAbbr": "VLYS"
   },
   {
-    "name": "VIADUCT",
+    "suffix": "VIADUCT",
     "abbrs": ["VDCT", "VIA", "VIADCT", "VIADUCT"],
     "standardAbbr": "VIA"
   },
   {
-    "name": "VIEW",
+    "suffix": "VIEW",
     "abbrs": ["VIEW", "VW"],
     "standardAbbr": "VW"
   },
   {
-    "name": "VIEWS",
+    "suffix": "VIEWS",
     "abbrs": ["VIEWS", "VWS"],
     "standardAbbr": "VWS"
   },
   {
-    "name": "VILLAGE",
+    "suffix": "VILLAGE",
     "abbrs": ["VILL", "VILLAG", "VILLAGE", "VILLG", "VILLIAGE", "VLG"],
     "standardAbbr": "VLG"
   },
   {
-    "name": "VILLAGES",
+    "suffix": "VILLAGES",
     "abbrs": ["VILLAGES", "VLGS"],
     "standardAbbr": "VLGS"
   },
   {
-    "name": "VILLE",
+    "suffix": "VILLE",
     "abbrs": ["VILLE", "VL"],
     "standardAbbr": "VL"
   },
   {
-    "name": "VISTA",
+    "suffix": "VISTA",
     "abbrs": ["VIS", "VIST", "VISTA", "VST", "VSTA"],
     "standardAbbr": "VIS"
   },
   {
-    "name": "WALK",
+    "suffix": "WALK",
     "abbrs": ["WALK"],
     "standardAbbr": "WALK"
   },
   {
-    "name": "WALKS",
+    "suffix": "WALKS",
     "abbrs": ["WALKS", "WALK"],
     "standardAbbr": "WALK"
   },
   {
-    "name": "WALL",
+    "suffix": "WALL",
     "abbrs": ["WALL"],
     "standardAbbr": "WALL"
   },
   {
-    "name": "WAY",
+    "suffix": "WAY",
     "abbrs": ["WY", "WAY"],
     "standardAbbr": "WAY"
   },
   {
-    "name": "WAYS",
+    "suffix": "WAYS",
     "abbrs": ["WAYS"],
     "standardAbbr": "WAYS"
   },
   {
-    "name": "WELL",
+    "suffix": "WELL",
     "abbrs": ["WELL", "WL"],
     "standardAbbr": "WL"
   },
   {
-    "name": "WELLS",
+    "suffix": "WELLS",
     "abbrs": ["WELLS", "WLS"],
     "standardAbbr": "WLS"
   }

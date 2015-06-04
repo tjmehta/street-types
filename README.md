@@ -14,17 +14,17 @@ console.log(streetTypes);
 /*
 [
   {
-    "name": "ALLEY",
+    "suffix": "ALLEY",
     "abbrs": ["ALLEE", "ALLEY", "ALLY", "ALY"],
     "standardAbbr": "ALY"
   },
   {
-    "name": "ANEX",
+    "suffix": "ANEX",
     "abbrs": ["ANEX", "ANNEX", "ANNX", "ANX"],
     "standardAbbr": "ANX"
   },
   {
-    "name": "ARCADE",
+    "suffix": "ARCADE",
     "abbrs": ["ARC", "ARCADE "],
     "standardAbbr": "ARC"
   },
